@@ -1,7 +1,5 @@
-app.js
 config/
 node_modules
-package.json
 
 # Compiled source #
 ###################
